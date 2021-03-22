@@ -7,13 +7,13 @@ For this project we are building an HTML page that will allow us to pull up info
 ## Results
 ### HTML page
 
-![Image]()
+![Image](https://github.com/Vaishali715/UFOs/blob/main/images/main_ufo.png)
 
 At our website we will see the main page with the title and picture at the top. As we scroll down, we will begin to see all the data and filters that we have.
 
 ### Filtering the data
 
-![Image]()
+![Image](https://github.com/Vaishali715/UFOs/blob/main/images/search_ufo.png)
 
 As we can see, we have five different filters to choose from; the date, city, state, country and shape. We can choose any of these filters and search the about the sightings, and the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
 
